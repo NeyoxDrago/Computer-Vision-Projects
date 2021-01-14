@@ -8,4 +8,5 @@ Folders:
 3. Handwritting Recognition : Handwriting Recognition on IAM dataset using YoloV5 . <br>
 4. Skin Lesion Segmentation : segmenting Skin lesions using UNET architecture. <br>
 5. Facial Key Point Detection : Detecting 68 key points over a face <br>
-6. Digit Detection : Digit detection using SVHN dataset
+6. Digit Detection : Digit detection using SVHN dataset <br>
+7. Neural Style Transfer : Creating Artistic Images using a combination of two images, content and a style <br>
