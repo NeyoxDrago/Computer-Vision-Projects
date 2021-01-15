@@ -5,7 +5,7 @@ Neural Style Transfer is a technique or a way to create realistic artistic image
 <p>
 For an example you can have a look below:
 
-<table>
+<table border="None">
     <tr>
         <td text_align="centre">
             <center> Content Image </center>
