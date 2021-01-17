@@ -18,6 +18,6 @@ Example
   <p>
   Resulted Image with bounding boxes
   <br>
-<img src="https://raw.githubusercontent.com/NeyoxDrago/Computer-Vision-Projects/main/YoloV3%20from%20scratch/sample3.jpg" width="50%" >
+<img src="https://raw.githubusercontent.com/NeyoxDrago/Computer-Vision-Projects/main/YoloV3%20from%20scratch/sample3_predicted.jpg" width="50%" >
   
 <h4> i hope this helps someone to understand the things/topics related to basic object detection.
