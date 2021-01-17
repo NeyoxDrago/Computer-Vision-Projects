@@ -8,4 +8,16 @@ This repository consists of implementation of YoloV3 from scratch.
 <br> You can find the refrence tutorial from https://machinelearningspace.com/blog/  ( Amazing blog )
 <br> Curious about the model architecture, just have a look at the model.png file ( created with an input shape of (416,416,3) )
 
+<p>
+Example
+
+<p>
+  Input Image
+  <br>
+<img src="https://raw.githubusercontent.com/NeyoxDrago/Computer-Vision-Projects/main/YoloV3%20from%20scratch/sample3.jpg" width="50%" >
+  <p>
+  Resulted Image with bounding boxes
+  <br>
+<img src="https://raw.githubusercontent.com/NeyoxDrago/Computer-Vision-Projects/main/YoloV3%20from%20scratch/sample3.jpg" width="50%" >
+  
 <h4> i hope this helps someone to understand the things/topics related to basic object detection.
